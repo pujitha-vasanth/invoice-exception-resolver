@@ -1,0 +1,9 @@
+[project]
+name = "invoice-exception-resolver"
+version = "0.1.0"
+description = "Multi-agent AP exception resolver: triage router + ReAct specialists, MCP tools, agentic RAG, hard approval guardrails"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

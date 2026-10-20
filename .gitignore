@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# local database (recreated by: python -m resolver.cli setup)
+data/*.db
+data/*.db-journal
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

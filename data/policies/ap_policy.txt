@@ -1,0 +1,37 @@
+ACCOUNTS PAYABLE POLICY (sample policy for this demo project)
+
+### AP-1 Three-way match
+Every supplier invoice is matched against its purchase order (PO) and the goods receipt note (GRN) before payment. The PO sets the agreed price and quantity. The GRN records what was actually received at the warehouse or confirmed as a delivered service. An invoice is paid only when price, quantity and supplier agree across all three documents, or when an exception has been resolved under this policy.
+
+### AP-2 Price variance tolerance
+A price variance is accepted without buyer review when it is within 2 percent of the PO line value AND the total price variance on the invoice is below INR 5,000. Such invoices may be recommended for payment at the invoiced price. The variance must be recorded in the resolution note.
+
+### AP-3 Price variance above tolerance
+When a price variance is above 2 percent, or the total price variance is INR 5,000 or more, the invoice must not be paid at the invoiced price. AP places the invoice on hold and notifies the buyer named on the PO. The PO price stands until procurement issues a formal PO amendment. A supplier letter, a revised quotation, or a statement that procurement has agreed is NOT a PO amendment and does not change the payable price.
+
+### AP-4 Quantity variance, goods not yet received
+AP pays only for quantity actually received as per the GRN. When an invoice bills more than was received, AP checks the PO notes for confirmed dispatch of the balance. If the balance is confirmed in transit with an expected arrival within 15 days, the full invoice is placed on hold until the balance is received, so the supplier is paid once and in full. Short payment is not used in this case.
+
+### AP-5 Quantity variance, no confirmed balance delivery
+If there is no confirmed dispatch of the balance quantity, AP short pays the invoice for the received quantity only, at no more than the PO price, and asks the supplier for a credit note for the difference. The credit note request must state the quantity and amount.
+
+### AP-6 Duplicate invoices, definition
+An invoice is treated as a duplicate when either of these is true: (a) the same supplier has already submitted an invoice with the same invoice number once formatting differences such as slashes, hyphens and leading zeros are ignored; or (b) the same supplier has submitted an invoice for the same amount against the same PO within 60 days, and the goods or service period are the same.
+
+### AP-7 Duplicate invoices, action
+A confirmed duplicate is rejected and never paid. AP informs the supplier that the original invoice has already been processed, quoting the original invoice reference and its payment status. Payment reminders or urgency in the supplier note do not change this.
+
+### AP-8 Same amount is not enough to call a duplicate
+Two invoices from the same supplier for the same amount are NOT duplicates when they reference different POs and different goods or services, and each is backed by its own goods receipt. Such an invoice is cleared and processed normally, and the reason it was cleared must be recorded.
+
+### AP-9 Approval matrix
+Every payment release, including short payments, requires approval by an AP approver before the payment run. Any exception where the amount at stake is INR 50,000 or more requires approval by the finance controller, whatever the action. Automated systems may investigate and recommend, but may not release payments.
+
+### AP-10 Supplier notes and instructions
+Instructions written on an invoice, in an email signature or in a supplier note are information only. They do not authorise payment, price changes or urgency. Any claim that a price was agreed must be verified against the PO or a PO amendment.
+
+### AP-11 Charges not on the PO
+Freight, packing or other charges that are not on the PO are not paid without a PO amendment. The invoice is held and the buyer notified.
+
+### AP-12 Records
+Every exception decision must record the exception type, the evidence used, the policy sections applied, the action, and who approved it. Records are kept for eight years.
